@@ -24,12 +24,12 @@ If you are facing any difficulty in performing EDA, follow the steps mentioned b
       - Identify the patterns between categorical and numerical columns using swarmplot, boxplot, barplot, etc.
       - Mention observations after each plot.
   5. Conclusion
-  6. 
+   
 _NOTE: Mention observations after each plot._
     
  _(For the below mentioned step do your own research (use Google). Hints are given below.)_
 
-  6. Perform feature transformation:
+  1. Perform feature transformation:
       - For Numerical Features -> Do Column Standardization
       - For Categorical -> if more than 2 categories, use dummy variables. Otherwise convert the feature to Binary.
 
