@@ -20,4 +20,4 @@ Pandas quiz in a [Jupyter Notebook](Assignment%202/Assignment_2%20(Graded).ipynb
 
 ## Assignment 3
 
-Performing Exploratory Data Analysis (EDA) in [Jupyter Notebook]()
+Performing Exploratory Data Analysis (EDA) in [Jupyter Notebook](Assignment%203/assignment_3.ipynb)
